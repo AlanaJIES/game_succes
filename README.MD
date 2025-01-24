@@ -1,6 +1,5 @@
 # Proyecto 6 - Análisis con Jupyter Notebook
 
-
 ## Descripción
 
 Este proyecto utiliza datos hasta el 2016 de videojuegos para identificar patrones que puedan servir para la venta de nuevos juegos en el 2017
@@ -9,6 +8,13 @@ Este proyecto utiliza datos hasta el 2016 de videojuegos para identificar patron
 - **Total de celdas:** 60
 - **Celdas de markdown:** 35
 - **Celdas de código:** 25
+
+## Bibliotecas usadas
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scipy`
 
 ### Procesos de análisis
 
